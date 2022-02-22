@@ -16,7 +16,8 @@ Users should be able to create an account (email and password)
 Users should be able to login to their account
 Stretch Goal: Email validation system.
 Stretch Goal : Password reset
-12:46
+
+
 Technical requirements:
 - The primary programming language used will be Python
 - API interface used is REST
